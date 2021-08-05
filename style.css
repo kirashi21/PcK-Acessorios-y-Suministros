@@ -1,0 +1,146 @@
+@charset "utf-8";
+.banner {
+    width: 800px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: rgba(215,215,215,1.00);
+}
+.contenido {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 38px;
+    text-align: left;
+    background-color: rgba(228,13,17,1.00);
+    font-size: 30px;
+    color: rgba(255,255,255,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.poster {
+    width: 800px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    visibility: visible;
+}
+.titulo {
+    width: 800px;
+    height: 125px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    font-size: 20px;
+    text-align: justify;
+}
+.todo {
+    height: 4000px;
+    font-size: 20px;
+}
+.titulo2 {
+    width: 800px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+    background-color: rgba(228,13,17,1.00);
+    font-size: 30px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    color: rgba(255,255,255,1.00);
+}
+.contenido2 {
+    width: 800px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    text-align: justify;
+}
+.poster3 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 250px;
+}
+.titulo3 {
+    width: 800px;
+    height: 40px;
+    margin-top: 25px;
+    font-size: 30px;
+    background-color: rgba(228,13,17,1.00);
+    color: rgba(255,255,255,1.00);
+}
+.contenido3 {
+    width: 800px;
+    height: 23px;
+    margin-top: 25px;
+    background-color: rgba(146,146,146,1.00);
+}
+.poster4 {
+}
+.titulo4 {
+    width: 800px;
+    height: 40px;
+    font-size: 30px;
+    background-color: rgba(228,13,17,1.00);
+    color: rgba(255,255,255,1.00);
+    margin-top: 25px;
+}
+.contenido4 {
+    margin-top: 25px;
+    font-size: 20px;
+    width: 800px;
+    height: 560px;
+}
+.titulo5 {
+    width: 800px;
+    height: 40px;
+    background-color: rgba(228,13,17,1.00);
+    color: rgba(255,255,255,1.00);
+    font-size: 30px;
+}
+.contenido5 {
+    width: 800px;
+    height: 100px;
+    margin-top: 25px;
+}
+.poster5 {
+    width: 800px;
+    height: 800px;
+}
+.ubicacion {
+    margin-top: 20px;
+}
+.credito {
+    width: 800px;
+    height: 25px;
+    background-color: rgba(0,149,212,1.00);
+    font-size: 15px;
+    color: rgba(255,255,255,1.00);
+    text-align: center;
+    margin-top: 10px;
+}
+.Credito1 {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.credito2 {
+}
+.credito2 {
+    top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.mover {
+    margin-top: 10px;
+    font-size: large;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: bolder;
+    text-indent: 10px;
+    white-space: normal;
+}
